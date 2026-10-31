@@ -26,8 +26,8 @@ const LOOKUP = Object.fromEntries(
 // ====== Ubah hadiah sesuai keinginanmu ======
 const PRIZE = {
   emoji: "🎁",
-  title: "Hadiahmu: satu pelukan hangat",
-  message: "Terima kasih sudah bermain. Kamu selalu menang di hatiku.",
+  title: "Hadiah Buat Kamu Yang Patah Hati",
+  message: "Jangan Pernah Berfikir Selalu kalah Karna Kamu selalu menang di hatiku.",
 };
 
 const THINK_MS = 1000;
@@ -114,7 +114,7 @@ export function RpsGame() {
         Gunting Batu Kertas
       </h2>
       <p className="mt-1 text-sm text-[#6f2c42]">
-        Aku selalu mengalah. Pilih saja, kamu pasti menang.
+        Ayo Main Sama Aku
       </p>
 
       {/* Arena: label "Kamu" dan "Aku" berada di bawah masing-masing gestur */}
