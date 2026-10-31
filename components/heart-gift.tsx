@@ -32,7 +32,7 @@ Apa pun yang terjadi nanti, aku ingin terus menggenggam tanganmu.
 Dengan seluruh cintaku,
 Yang selalu menyayangimu`,
   finalTitle: "Aku akan selalu mencintaimu",
-  finalSub: "Dari, selamanya milikmu",
+  finalSub: "Dari Awal Hingga Akhir",
 };
 
 type Photo = { src: string; alt: string };
