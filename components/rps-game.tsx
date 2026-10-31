@@ -79,7 +79,7 @@ export function RpsGame() {
     timeoutRef.current = window.setTimeout(
       () => {
         if (intervalRef.current) window.clearInterval(intervalRef.current);
-        // "Aku" selalu mengalah: pilih gerakan yang kalah dari pilihan pemain
+        
         setOpponent(BEATS[choice]);
         setPhase("result");
       },
