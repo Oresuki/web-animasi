@@ -33,14 +33,14 @@ export default function HomePage() {
             <LottieChoiceCard
               href="/heart"
               label="Heart"
-              description="Hangat, penuh cinta, dan berdetak riang."
+              
               src={LOTTIE_HEART}
               variant="heart"
             />
             <LottieChoiceCard
               href="/broken-heart"
               label="Broken Heart"
-              description="Sunyi, rapuh, dan sedang menyembuhkan diri."
+              
               src={LOTTIE_BROKEN_HEART}
               variant="broken"
             />
